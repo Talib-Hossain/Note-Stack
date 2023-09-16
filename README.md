@@ -1,6 +1,6 @@
 # Note-Stack
-Note Application
-# Feature
+Welcome to Note Stack, your digital notebook solution! Note Stack is a versatile and user-friendly note-taking application that helps you capture and organize your thoughts, ideas, and important information effortlessly.
+# Key Feature
 * Secure User Authentication
 * CRUD operation on Notes
 * User Friendly User Interface
