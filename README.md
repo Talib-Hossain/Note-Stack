@@ -11,3 +11,5 @@ Welcome to Note Stack, your digital notebook solution! Note Stack is a versatile
 * Navigation Framework of Android
 * Hilt framework for Dependency Injection
 * Kotlin Coroutine
+# API Used
+https://github.com/Talib-Hossain/notesApi
