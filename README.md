@@ -4,7 +4,7 @@ Welcome to Note Stack, your digital notebook solution! Note Stack is a versatile
 * Secure User Authentication
 * CRUD operation on Notes
 * User Friendly User Interface
-# Tech Used
+# Technology Used
 * Kotlin
 * XML
 * Material Design
